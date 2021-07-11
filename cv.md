@@ -14,3 +14,7 @@
 - SQL
 
 ### this is my git-hub page: https://github.com/G10rgi
+
+### i am student at Georgian Technical University
+
+### My level of English is B2.
